@@ -1,0 +1,6 @@
+{
+  "name": "My School CBSE AI",
+  "description": "AI-powered study companion, doubts solver, and progress planner designed specifically for CBSE school students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
